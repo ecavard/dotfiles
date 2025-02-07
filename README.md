@@ -1,6 +1,6 @@
 # Dotfiles
 
-This repository contains my personal dotfiles. I use [GNU Stow](https://www.gnu.org/software/stow/) to manage them.
+This is my personal template collection. I use [GNU Stow](https://www.gnu.org/software/stow/) to manage them.
 
 ## Installation
 

@@ -15,4 +15,4 @@ cd "$DOTFILES_DIR" || exit
 stow zsh
 stow git
 
-echo "Dotfiles successfully setup!"
+echo "✅ Dotfiles successfully setup!"

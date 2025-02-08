@@ -9,6 +9,3 @@ plugins=(git)
 
 # Load Oh My Zsh
 source $ZSH/oh-my-zsh.sh
-
-# local bin path
-export PATH="$HOME/.local/bin:$PATH"
